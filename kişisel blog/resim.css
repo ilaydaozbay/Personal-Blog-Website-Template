@@ -1,0 +1,110 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url('images/arkaplan1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment:fixed;
+}
+
+.ikon{
+    position:fixed;
+    top: 7px;
+    border-bottom: 2px solid darkorchid;
+    border-top: 2px solid darkorchid;
+    background-color: grey;
+    height: 10px;
+    padding-left: 0px;  
+}
+
+.ikon a{
+    list-style:none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:25px;
+    color:#544738;
+    text-decoration: none;
+    float:left;text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+    padding-left:28.3px;  
+}
+
+ .ikon img{
+    width:40px;
+    height:40px;
+    padding-left: 0px;
+    padding-right: 100px;
+}
+
+.ikon a:hover{
+    color:rgb(196, 67, 196);
+}
+
+#box{
+    max-width:300px;
+    position:relative;
+} 
+
+#search{
+    width: 100px;
+    /* box-sizing: border-box; */
+    border: 2px solid violet;
+    border-radius: 10px;
+    font-size:20px;
+    padding: 12px 235px 12px 40px;  
+}
+
+ hr {
+    width: 85%;
+    border-style: solid;
+    color:hotpink;
+    border-width: 2px;
+} 
+
+.cizim{
+    width: 600px;
+    height: 300px;
+}
+
+.anasayfa{
+    padding-right: 120px ;
+} 
+
+.anasayfa img{
+    width:500px;
+    height:600px;
+    padding: 20px;
+    padding-left: 120px;
+}
+
+h2{
+    margin-bottom: -10px;;
+    padding-left: 120px;
+    padding-right: 500px;
+}
+
+div {
+    background-color: white;
+    margin-left:150px;
+    margin-right:150px;   
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(228, 169, 179);
+    border-radius: 10px;
+    margin-bottom: 10px;   
+}
+
+button a{
+    text-decoration: none;
+}
+
+.site{
+    background-color: rgb(67, 67, 70);
+    color:white
+}
+
+
+
+ 
